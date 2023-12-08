@@ -1,3 +1,9 @@
+# Disclaimer
+
+Forked from https://github.com/murraco/sorting-algorithms for Quality assurance and testing Assignment.
+### Added PITest for mutation testing
+### Completed Test Suite
+
 # Sorting Algorithms
 
 ![](https://img.shields.io/badge/build-success-brightgreen.svg)
